@@ -14,7 +14,7 @@ social:
     link: https://twitter.com/meljanssingh
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=BHdE9g8AAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/meljsingh
