@@ -2,11 +2,7 @@
 title: Melanie Jans-Singh
 role: Research associate in Digital tools for urban farming
 avatar_filename: id-photo.jpg
-bio: I am interested in the sustainability of integrating nature with
-  infrastructure, in particular methods to quantify considerations of the
-  food-water-energy nexus into the built environment. My PhD research focused on
-  the combined performance of hydroponic greenhouses within disused urban
-  spaces.
+bio: Researcher in energy, agriculture and hydrology
 interests: []
 social:
   - icon: twitter
@@ -28,20 +24,19 @@ organizations:
   - name: Growing Underground
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MRes + PhD in Future Infrastructure and the Built Environment
+      institution: University of Cambridge
+      year: 2020
+    - course: MEng Civil Environmental Engineering
+      institution: Imperial College London
+      year: 2015
 email: mkj32@cam.ac.uk
 superuser: true
 highlight_name: false
 ---
 <!--StartFragment-->
+
+I am interested in the sustainability of integrating nature with infrastructure, in particular methods to quantify considerations of the food-water-energy nexus into the built environment. My PhD research focused on the combined performance of hydroponic greenhouses within disused urban spaces.
 
 My research builds upon a collaboration with Growing Underground, a hydroponic farm in derelict tunnels in London, where we set up a monitoring network to track the effect of crops on the built environment, and vice versa: how the built environment could be harnessed to create efficient urban growing spaces. The large amount of data collected has grown into an interest in digital twins, for which we are developing a prototype for Growing Underground (GU), linking data collection, data analysis and data models into one platform for bespoke use by GU operators and researchers. My research interests also span building energy modelling and I have developed a co-simulation methodology to model the co-benefits of installing a greenhouse in disused building spaces.
 
